@@ -1,0 +1,34 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "Mohamed",
+            "age": 21,
+            "track": "Python"
+        },
+        {
+            "id": 2,
+            "name": "Ahmed",
+            "age": 15,
+            "track": "Python"
+        },
+        {
+            "id": 3,
+            "name": "Ali",
+            "age": 25,
+            "track": "AI"
+        },
+        {
+            "id": 4,
+            "name": "Hassan",
+            "age": 32,
+            "track": "Frontend"
+        },
+        {
+            "id": 5,
+            "name": "Aya",
+            "age": 26,
+            "track": "ML"
+        }
+    ]
+}
